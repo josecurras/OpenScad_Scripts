@@ -1,4 +1,3 @@
-echo(version=version());
 // Llamadas recursivas a modulos (funciones) pueden generar geometrías complejas, 
 // epecialmente ojetos de estilo fractal
 // El ejemplo usa una llamada recursiva al modulo tree ("arbol") para generar un arbol aleatorio 
